@@ -1,0 +1,9 @@
+GET http://localhost:4000/api/random?start=5&end=10
+
+###
+
+GET http://localhost:4000/api/get-person?firstName&lastName&age&avatar
+
+###
+
+GET http://localhost:4000/api/breakdown?str=JavaScript@2023!
